@@ -2,7 +2,7 @@
 
 > Weekly statistics from BuySignal's live tracking of 143,000+ UK deals across 22 retailers.
 
-🌐 **Source:** [buysignal.co.uk](https://buysignal.co.uk) | [Full Report](https://buysignal.co.uk/uk-retail-discount-report-2026)
+🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Full Report](https://buysignal.deals/uk-retail-discount-report-2026)
 
 ## Latest Data (June 2026, BuySignal data)
 
@@ -58,7 +58,7 @@
 
 ## Total Deals Tracked
 
-**198069 live deals** across 22 UK retailers as of June 2026
+**199460 live deals** across 22 UK retailers as of June 2026
 
 ## Data Updates
 
@@ -66,7 +66,7 @@ This repository is updated automatically when new deal data is collected by BuyS
 
 ## About BuySignal
 
-BuySignal is an independent UK deals tracker — [buysignal.co.uk](https://buysignal.co.uk)
+BuySignal is an independent UK deals tracker — [buysignal.deals](https://buysignal.deals)
 - No ads, no affiliate bias
 - 22 UK retailers tracked
 - Price alerts for any UK product URL

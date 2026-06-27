@@ -58,7 +58,7 @@
 
 ## Total Deals Tracked
 
-**226508 live deals** across 22 UK retailers as of June 2026
+**226509 live deals** across 22 UK retailers as of June 2026
 
 ## Data Updates
 
